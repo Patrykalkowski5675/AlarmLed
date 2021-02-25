@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Włoskie Co Nieco</string>
+    <string name="create_order">Złóż zamówienie</string>
+    <string name="create_order_title">Złóż zamówienie</string>
+    <string name="action_share">Udostępnij</string>
+
+    <string name="title_top">Fragment główny</string>
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Wrocław</item>
+        <item>Kraków</item>
+    </string-array>
+
+    <string name="home_tab">Start</string>
+    <string name="pizza_tab">Pizze</string>
+    <string name="pasta_tab">Makarony</string>
+    <string name="store_tab">Pizzerie</string>
+
+    <string name="company_name">Włoskie Co Nieco</string>
+    <string name="restaurant_image">Zdjęcie restauracji</string>
+    <string name="home_text">Odkąd w roku 2017 otworzyliśmy drzwi naszego pierwszego lokalu, zdobyliśmy reputację najlepszej krajowej sieci restauracji włosko-mobilnych.
+        Niektórzy twierdzą, że celem spożywania posiłków poza domem jest spotykanie się ze znajomymi lub spędzanie czasu z rodziną. My natomiast uważamy, że dobre jedzenie
+        smakuje najlepiej, gdy towarzyszy mu wpatrywanie się w ekran smartfona.</string>
+
+    <string name="order_name_hint">Proszę, napisz jak masz na imię</string>
+    <string name="order_details_hint">Tutaj wpisz swoje zamówienie</string>
+
+</resources>

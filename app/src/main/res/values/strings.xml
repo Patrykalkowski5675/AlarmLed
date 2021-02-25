@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AlarmLed</string>
+    <string name="context_menu">Context menu</string>
+
+    <string-array name="pasta">
+        <item>jeden</item>
+        <item>dwa</item>
+    </string-array>
+
+    <string-array name="spinnerItems">
+        <item>Ones</item>
+        <item>Always</item>
+
+    </string-array>
+
+    <string name="home_tab">Start</string>
+    <string name="alarms_tab">Alarmy</string>
+    <string name="ustawienia">Ustawienia</string>
+
+    <string name="company_name">Czesc</string>
+    <string name="restaurant_image">Zdjęcie restauracji</string>
+    <string name="home_text">Bla bla blaaa!, blalal al lasd bla blaaa Bla bla blaaa!, blalal alBla bla blaaa!, blalal alBla bla blaaa!, blalal alBla bla blaaa!, blalal al Bla bla blaaa!, blalal al Bla bla blaaa!, blalal al </string>
+
+    <string name="always_turn_on">Always Turn On</string>
+    <string name="always_turn_off">Always Turn Off</string>
+    <string name="only_alarms">Only Alarms</string>
+    <string name="title_activity_add_alarm">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="repeat">Repeat:</string>
+    <string name="color">Color:</string>
+
+    <string name="erase">Clear all alarms</string>
+    <string name="set_time">How many minutes before:</string>
+    <string name="set_time_dialog">Set how many minutes before \nalarm leds start shining.</string>
+    <string name="set_ip_dialog">"              Enter IP of ESP:             "</string>
+
+</resources>
