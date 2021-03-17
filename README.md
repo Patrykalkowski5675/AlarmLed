@@ -8,6 +8,6 @@ współistnienia z innymi systemami, jednak jest przewidywany rozwój w tym kier
 Planowane termin ukończenia systemu - styczeń 2022.
 
 <p align="center">
-   <img  src="https://user-images.githubusercontent.com/50949711/111485823-3fe73480-8737-11eb-9364-5e04899ba3c5.png">
-   <img  src="https://user-images.githubusercontent.com/50949711/111485830-42498e80-8737-11eb-9196-ec15b67b8710.png">
+   <img width=40% height=40% src="https://user-images.githubusercontent.com/50949711/111485823-3fe73480-8737-11eb-9364-5e04899ba3c5.png">
+   <img width=40% height=40% src="https://user-images.githubusercontent.com/50949711/111485830-42498e80-8737-11eb-9196-ec15b67b8710.png">
 </p>
